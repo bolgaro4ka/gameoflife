@@ -34,3 +34,5 @@ Imports:
 ![TM](https://github.com/bolgaro4ka/gameoflife/assets/123888141/52b8a841-c348-4016-bf43-12f7ae61d39f)
 
 Explanations in config.py in Russian
+
+**When copying, indicate authorship!**
