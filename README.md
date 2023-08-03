@@ -1,10 +1,11 @@
 # Game of Life
+Game of life written in PyGame
 
 ![200px-Gospers_glider_gun](https://github.com/bolgaro4ka/gameoflife/assets/123888141/c31c4f4f-ed61-4a2e-a0b5-130a1ddfcad8)
 
 The Game of Life is a cellular automaton invented by English mathematician John Conway in 1970. This is a game without players, in which a person creates an initial state, and then only observes its development. The game can create Turing-complete processes, which makes it possible to implement any Turing machine.
 
-## Rules
+## Default Rules
 
 - Development of colonies from three points
 - The place of action of the game is a plane marked into cells, which can be unlimited, limited or closed.
